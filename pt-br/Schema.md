@@ -2,7 +2,7 @@
 
 ## Examples
 
-# 1 - Create Schema                                              <a name="1">
+# 1 - Create Schema                                              <a name="a1">
 
 ```TypeScript
 import { MySQL } from "vapor/driver/mysql";
